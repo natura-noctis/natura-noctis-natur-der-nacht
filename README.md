@@ -20,8 +20,16 @@ Eine zweite Möglichkeit ist einen Teil der Geschichte als Issue einzubringen. D
 ### Spendenbeitrag
 
 Die dritte Möglichkeit am Projekt mitzuwirken ist durch eine Beauftragung zum Textschreiben. Dies erfolgt wie folgt: Zunächst ist eine Spende zu tätigen.
-Anschließend ist zur Spende ein Schlagwort mitzuteilen. Aus dem Schlagwort und dem Umfang der Spende wird anschließend ein weiterer Teil der Community-Geschichte geschrieben.
+Anschließend ist zur Spende ein Schlagwort mitzuteilen. Aus dem Schlagwort und dem Umfang der Spende wird anschließend ein weiterer Teil der Community-Geschichte geschrieben. 
 Wer möchte, kann auch als Sponsor des geschriebenen und finanzierten Teils in der Geschichte verewigt werden.
+
+Als Orientierung folgende kleine Anmerkungen: 
+- Für 1 € bis 5 € wird ein kleiner Absatz von 4-6 Zeilen mit dem vorkommenden Wunschwort geschrieben.
+- Zwischen 6 € und 25 € wird ein Abschnitt von ca. 20 - 25 Zeilen über das betreffende Wunschwort geschrieben.
+- Ab 26 € wird ein Abschnitt von ca. 50 Zeilen über das betreffende Wunschwort geschrieben.
+- Ab 50 € wird ein ganzes Kapitel zum betreffenden Wunschwort verfasst.
+
+Diese Spenden-Einnahmen erhält zu 90% der jeweilige Autor des Abschnittes, die restlichen Einnahmen wird für den Betrieb der Webseite [natura-noctis.de](https://natura-noctis.de), sowie für den Community-Betrieb aufgewendet.
 
 Ich sammle bis 01.03.22 für Natura Noctis - Losgehts. Können Sie helfen? https://www.paypal.com/pools/c/8GPRMsSI8d.
 
